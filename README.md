@@ -6,5 +6,5 @@ Let me know.
 
 The online version is available at https://app.powerbi.com/groups/me/reports/1dfce969-2082-4ad5-9021-e2069c59a595/ReportSection
 
-powerbi_user@faisaliqbal0x7bagmail.onmicrosoft.com
-U$3r_P0w3rBI
+user name = powerbi_user@faisaliqbal0x7bagmail.onmicrosoft.com
+password = U$3r_P0w3rBI
